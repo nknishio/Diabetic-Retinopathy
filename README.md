@@ -2,11 +2,11 @@
 
 This study leveraged the two pretrained ResNet50 and VGG19 models for detecting DR in retinal fundus images from the APTOS 2019 dataset. 
 
-A.	Dataset 
+**A.	Dataset** 
 
 This study utilized the publicly accessible APTOS 2019 dataset, shown in Fig. 2. The dataset comprises 3,662 retinal fundus images, each sized 3216×2136 pixels, collected from 193 patients using various cameras in different locations. The distribution of images across the DR stages is as follows: 1805 in the no DR group, 370 in the mild DR group, 999 in the moderate DR group, 193 in the severe DR group, and 295 in the proliferate DR group. The dataset is imbalanced with an uneven distribution among the classes, which can negatively impact classification performance. To mitigate this, data augmentation techniques were applied.
 
-B.	Proposed Image Processing
+**B.	Proposed Image Processing**
 
 In this study, the combinations of the three image preprocessing techniques were fine-tuned and proposed— Graham method, CLAHE, and ESRGAN to address issues such as blurriness, low contrast, and inhomogeneous illumination present in the APTOS dataset.   
 
@@ -22,11 +22,11 @@ Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN), proposed by 
 
 The combination of the above three methods are experimented to compare the effectiveness of pre-processing on DR detection and classification. 
 
-C. Result
+**C. Result**
 
 This study explores the role of various image processing methods in DR classification, testing different combinations to achieve the best performance of the deep learning model. For early DR detection, the pre-trained VGG19 model with the proposed CLAHE + ESRGAN method achieved an accuracy of 98.91%. To differentiate retinal lesions across different DR stages, ResNet50 was proven to be more effective than VGG19 in capturing distinctive features. For five-DR-stage classification, ResNet50 with Graham20 + CLAHE achieved the highest accuracy of 86.07%, while ResNet50 with CLAHE + ESRGAN showed the second highest accuracy of 84.15%. The pre-trained ResNet50 model performed approximately 2% more accurately than the pre-trained VGG19 model in capturing the distinctive features of the retinal fundus images.
 
-D. Key Contributions
+**D. Key Contributions**
 
 1) Recent popular image processing techniques, CLAHE, Gaussian Blur, and ESRGAN, have been systematically studied. Their combinations, with fine-tuned parameters, are proposed for the first time to reduce image noise, enhance contrast, restore blurriness, and highlight DR lesion features, thereby improving multi-DR stage classification performance.
 
