@@ -36,8 +36,8 @@ This study explores the role of various image processing methods in DR classific
 
 **F. Publication**
 
-[2024 IEEE International Conference on Future Machine Learning and Data Science]([https://www.fmlds.org/AcceptedPapers.php])
+[2024 IEEE International Conference on Future Machine Learning and Data Science]("https://www.fmlds.org/AcceptedPapers.php")
 
-Paper [[pdf]]([[url](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20paper%20FMLDS2024.pdf)])
+Paper: [pdf]("https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20paper%20FMLDS2024.pdf")
 
-Slides [[pdf]([url](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20slides_FMLDS2024.pdf))]
+Slides:[pdf]("https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20slides_FMLDS2024.pdf")
