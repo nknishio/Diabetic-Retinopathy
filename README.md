@@ -35,6 +35,9 @@ This study explores the role of various image processing methods in DR classific
 3) The proposed image enhancement methods are suggested for integration into retinal camera applications. Once retinal fundus images are captured, users or ophthalmologists at home, at clinic or remote locations can select between different image enhancement methods in the app to highlight the DR lesions for self-screening or professional DR screening. Graham20 + CLAHE is generally suitable for all DR stages, effectively removing lighting noise and making retinal lesions more visible to the human eye.
 
 **F. Publication**
-[2024 IEEE International Conference on Future Machine Learning and Data Science]([url](https://www.fmlds.org/AcceptedPapers.php))
-Paper [[pdf]]([url](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20paper%20FMLDS2024.pdf))
+
+[2024 IEEE International Conference on Future Machine Learning and Data Science]([https://www.fmlds.org/AcceptedPapers.php])
+
+Paper [[pdf]]([[url](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20paper%20FMLDS2024.pdf)])
+
 Slides [[pdf]([url](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20slides_FMLDS2024.pdf))]
