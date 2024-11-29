@@ -1,5 +1,6 @@
 # Diabetic-Retinopathy Detection and Severity Classification
-Paper: [pdf   ](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20paper%20FMLDS2024.pdf)
+Paper: [pdf](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20paper%20FMLDS2024.pdf)
+
 Slides:[pdf](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20slides_FMLDS2024.pdf)
 
 This study leveraged the two pretrained ResNet50 and VGG19 models for detecting DR in retinal fundus images from the APTOS 2019 dataset. 
