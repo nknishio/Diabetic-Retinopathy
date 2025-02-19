@@ -1,5 +1,5 @@
 # Diabetic-Retinopathy Detection and Severity Classification
-Paper: [pdf](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20paper%20FMLDS2024.pdf)
+Paper: [link](https://doi.org/10.1109/FMLDS63805.2024.00075)
 
 Slides: [pdf](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20slides_FMLDS2024.pdf)
 
