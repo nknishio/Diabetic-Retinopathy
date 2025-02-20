@@ -3,6 +3,8 @@ Paper: [link](https://doi.org/10.1109/FMLDS63805.2024.00074)
 
 Slides: [pdf](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20slides_FMLDS2024.pdf)
 
+App Demo: [Github](https://github.com/nknishio/Diabetic-Retinopathy/tree/main/DR%20Detection%20App)
+
 This study leveraged the two pretrained ResNet50 and VGG19 models for detecting DR in retinal fundus images from the APTOS 2019 dataset. 
 
 **A.	Dataset** 
