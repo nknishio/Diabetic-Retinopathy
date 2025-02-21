@@ -1,7 +1,7 @@
 # Diabetic-Retinopathy Detection and Severity Classification
 IEEE Published Paper: [Link](https://doi.org/10.1109/FMLDS63805.2024.00074)
 
-Slides: [pdf](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20slides_FMLDS2024.pdf)
+Conference Slides: [pdf](https://github.com/kneshio/Diabetic-Retinopathy/blob/main/Diabetic%20Retinopathy%20slides_FMLDS2024.pdf)
 
 DR Detection App Demo: [Github](https://github.com/nknishio/Diabetic-Retinopathy/blob/main/DR%20Detection%20App/DR_App_Demo.md)
 
