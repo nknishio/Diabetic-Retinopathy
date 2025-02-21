@@ -1,3 +1,5 @@
-[![Video](https://img.youtube.com/vi/43-8FGLc08Q/0.jpg)](https://www.youtube.com/watch?v=43-8FGLc08Q)
+# DR Detection/Classification App Demo (YouTube)
 
-Note: The app currently has many inaccuracies, as seen in the video. I am still working on fixing issues and making it better.
+https://github.com/user-attachments/assets/b02d68fe-3414-490c-a410-6f1cdf983d1f
+
+Note: The app's classifications currently has many inaccuracies and inconsistencies. I am still working on fixing issues to improve the app.
