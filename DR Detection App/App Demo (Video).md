@@ -1,4 +1,4 @@
-# DR Detection/Classification App Demo (YouTube)
+# DR Detection/Classification App Demo (Work in Progress)
 
 https://github.com/user-attachments/assets/b02d68fe-3414-490c-a410-6f1cdf983d1f
 
