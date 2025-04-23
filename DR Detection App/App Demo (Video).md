@@ -1,13 +1,13 @@
 # DR Detection/Classification App Demo (Work in Progress)
 
 The app allows users to customize the image processing done on the retina fundus images, specifically the proposed methods in the [paper](https://ieeexplore.ieee.org/document/10874046).
-## Functions:
+## 🔧 Functions:
 - Toggling Contrast Limited Adaptive Histogram Equalization (CLAHE)
 - Toggling Graham Gaussian Blur (described in detail in paper)
   - Using SigmaX = 10 or SigmaX = 20
 - Uploading photos from library
 
-## Full image processing flow done in background:
+## 🔀 Full image processing flow done in background:
 1. Original photo
 2. Identify smallest rectangle containing entire field of retina image and crop (remove unnecessary black background)
 3. Pad image to square
@@ -18,7 +18,7 @@ The app allows users to customize the image processing done on the retina fundus
 8. Perform normalization
 9. Pass into CoreML model for prediction & probabilities
 
-## Video Demo
+## 🎥 Video Demo
 
 https://github.com/user-attachments/assets/b02d68fe-3414-490c-a410-6f1cdf983d1f
 
