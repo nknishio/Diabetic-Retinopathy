@@ -41,4 +41,4 @@ This study explores the role of various image processing methods in DR classific
 
 **F. Publication**
 
-[2024 IEEE International Conference on Future Machine Learning and Data Science](https://www.fmlds.org/AcceptedPapers.php)
+[2024 IEEE International Conference on Future Machine Learning and Data Science](https://doi.org/10.1109/FMLDS63805.2024.00074)
